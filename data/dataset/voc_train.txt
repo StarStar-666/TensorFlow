@@ -1,0 +1,1217 @@
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00412.jpg 109,27,183,79,0 11,78,97,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00469_90d.jpg 141,129,167,195,0 161,54,192,119,0 35,31,63,94,0 49,10,98,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00239_90d.jpg 52,31,78,114,0 81,5,108,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00357_90d.jpg 4,61,199,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00282_270d.jpg 130,99,150,180,0 98,65,140,100,0 39,104,80,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00223_180d.jpg 26,78,123,101,0 7,40,66,68,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00294_270d.jpg 65,136,123,185,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00238_270d.jpg 96,35,131,157,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00291_180d.jpg 4,115,89,141,0 101,97,190,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00362.jpg 94,18,152,75,0 143,91,172,179,0 145,7,177,70,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00513.jpg 58,45,124,76,0 140,87,200,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00247_180d.jpg 144,120,192,139,0 129,101,179,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00261.jpg 2,98,108,135,0 111,78,200,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00222_180d.jpg 96,12,183,44,0 30,1,83,24,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00547_180d.jpg 42,155,78,191,0 64,7,126,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00373.jpg 79,10,112,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00270.jpg 12,3,84,68,0 90,74,126,171,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00372_90d.jpg 57,87,201,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00282_180d.jpg 21,130,102,150,0 101,98,136,139,0 58,39,97,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00243_90d.jpg 49,4,88,105,0 114,2,132,74,0 129,123,159,185,0 162,87,188,118,0 155,123,175,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00410_90d.jpg 92,84,128,195,0 71,4,98,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00397.jpg 51,7,88,118,0 73,127,126,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00532_270d.jpg 77,9,105,109,0 52,113,92,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00271_270d.jpg 174,100,194,174,0 143,37,184,124,0 64,129,136,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00320_180d.jpg 85,37,124,177,0 20,8,78,51,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00560_90d.jpg 15,72,84,129,0 95,116,191,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00230.jpg 5,86,28,122,0 39,97,185,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00254_180d.jpg 66,67,143,146,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00447_180d.jpg 60,92,100,195,0 73,7,112,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00779_270d.jpg 61,7,87,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00403.jpg 7,111,113,143,0 126,98,200,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00424_180d.jpg 104,17,159,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00399_270d.jpg 99,53,194,119,0 9,102,98,171,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00398_270d.jpg 99,81,198,115,0 4,100,89,145,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00236_270d.jpg 115,1,144,138,0 102,161,130,197,0 3,157,84,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00319.jpg 111,23,149,139,0 152,139,193,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00398_90d.jpg 1,86,100,120,0 111,56,196,101,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00244_90d.jpg 86,5,132,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00448_270d.jpg 101,17,142,120,0 12,103,93,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00436_90d.jpg 68,138,142,194,0 142,69,197,122,0 39,26,113,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00383_180d.jpg 84,9,131,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00536_90d.jpg 29,4,93,86,0 96,94,157,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00438_270d.jpg 30,84,160,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00256_180d.jpg 114,104,194,130,0 1,88,108,115,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00785_270d.jpg 50,4,73,48,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00463_90d.jpg 93,10,194,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00554_180d.jpg 45,29,114,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00372_180d.jpg 87,0,141,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00386_180d.jpg 10,25,67,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00412_270d.jpg 120,109,173,184,0 69,11,122,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00466.jpg 104,29,176,69,0 129,72,194,150,0 60,143,121,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00512_90d.jpg 73,117,166,171,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00401.jpg 12,38,102,109,0 118,122,190,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00543.jpg 123,13,157,82,0 76,107,131,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00505_180d.jpg 6,42,197,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00478_90d.jpg 23,11,93,86,0 110,82,189,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00336_180d.jpg 121,119,176,156,0 80,12,114,109,0 59,141,137,175,0 18,96,50,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00465.jpg 65,20,136,71,0 95,86,156,164,0 21,148,84,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00561.jpg 93,60,164,116,0 18,124,92,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00289.jpg 106,68,158,86,0 151,95,171,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00437_90d.jpg 26,23,88,187,0 97,0,175,44,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00439.jpg 8,15,77,118,0 26,122,110,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00518.jpg 7,73,192,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00474_90d.jpg 80,117,147,200,0 76,1,128,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00253_180d.jpg 102,59,196,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00252_270d.jpg 74,89,152,147,0 8,50,71,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00241_270d.jpg 106,16,131,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00443_90d.jpg 55,6,121,189,0 127,17,184,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00781.jpg 1,50,109,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00500_180d.jpg 4,8,195,37,0 11,100,198,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00248_90d.jpg 26,23,43,81,0 118,68,142,134,0 154,52,179,117,0 169,136,194,196,0 13,144,31,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00365_270d.jpg 3,90,164,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00788.jpg 107,85,188,124,0 8,116,93,152,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00261_180d.jpg 92,64,199,102,0 0,86,90,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00361_180d.jpg 125,114,190,166,0 96,20,140,106,0 165,62,196,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00349.jpg 21,66,77,123,0 91,128,138,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00555_270d.jpg 76,49,122,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00311_270d.jpg 55,60,123,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00541_180d.jpg 96,101,164,174,0 136,6,190,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00262.jpg 2,92,93,124,0 108,64,197,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00390_180d.jpg 72,91,143,190,0 52,2,114,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00423_180d.jpg 100,85,192,165,0 8,11,88,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00232_90d.jpg 69,21,132,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00510_270d.jpg 51,63,86,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00210_90d.jpg 83,19,115,142,0 120,9,145,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00491_270d.jpg 72,112,126,198,0 8,28,66,101,0 139,113,179,176,0 65,19,125,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00300_180d.jpg 115,74,197,96,0 38,63,102,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00375_90d.jpg 121,33,147,124,0 125,128,178,184,0 95,44,121,109,0 94,120,127,170,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00450_90d.jpg 116,104,184,199,0 48,4,114,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00249_180d.jpg 161,83,191,111,0 19,71,149,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00249_90d.jpg 88,161,116,191,0 97,19,128,149,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00332.jpg 14,92,110,120,0 118,77,199,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00419_180d.jpg 23,79,86,180,0 89,9,163,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00393_180d.jpg 76,67,146,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00389.jpg 3,96,196,167,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00558_270d.jpg 98,87,185,151,0 7,24,84,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00303_180d.jpg 111,130,193,187,0 61,37,91,138,0 80,2,122,34,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00450_270d.jpg 17,2,83,97,0 86,103,151,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00537_270d.jpg 71,15,122,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00473_90d.jpg 10,31,82,91,0 91,109,154,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00215_270d.jpg 67,8,107,45,0 27,48,65,81,0 4,84,41,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00324_270d.jpg 119,78,195,103,0 2,83,110,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00494.jpg 2,3,58,194,0 155,60,197,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00798_90d.jpg 24,104,196,130,0 129,46,193,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00490_270d.jpg 100,108,163,185,0 58,21,108,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00364_90d.jpg 9,48,138,89,0 160,29,200,65,0 0,4,52,48,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00546_180d.jpg 42,4,98,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00260_180d.jpg 95,117,197,146,0 0,104,93,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00451.jpg 3,100,102,158,0 113,53,198,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00229.jpg 25,51,98,88,0 8,117,61,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00383_90d.jpg 18,84,191,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00239.jpg 87,53,169,77,0 132,81,195,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00446_180d.jpg 87,93,152,194,0 31,3,109,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00529_180d.jpg 11,73,107,107,0 114,37,199,75,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00257_90d.jpg 52,96,89,200,0 71,1,104,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00434_90d.jpg 0,82,82,134,0 84,131,146,191,0 109,42,200,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00315.jpg 14,90,108,112,0 119,74,197,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00296_90d.jpg 51,107,81,200,0 64,57,130,106,0 119,11,134,50,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00506_270d.jpg 82,6,108,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00510_180d.jpg 23,51,138,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00775_90d.jpg 93,118,119,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00336.jpg 25,44,79,80,0 87,91,120,187,0 64,25,141,58,0 151,57,182,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00335_180d.jpg 83,61,154,83,0 5,79,75,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00533_270d.jpg 96,39,121,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00279_90d.jpg 88,31,114,87,0 69,122,133,167,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00356.jpg 50,8,123,57,0 131,62,186,129,0 174,141,198,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00350.jpg 87,36,151,124,0 45,140,92,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00382.jpg 22,125,95,154,0 106,145,168,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00406_180d.jpg 3,81,91,131,0 95,33,189,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00459_270d.jpg 43,8,95,106,0 29,114,82,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00304.jpg 98,60,195,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00418.jpg 8,92,73,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00553_90d.jpg 14,21,198,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00445_90d.jpg 3,73,103,145,0 106,37,197,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00442_180d.jpg 105,6,200,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00233_270d.jpg 158,60,182,188,0 101,157,145,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00373_180d.jpg 88,11,122,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00342_270d.jpg 13,77,153,149,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00533_180d.jpg 12,96,162,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00423_90d.jpg 34,100,114,192,0 115,8,189,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00538_270d.jpg 16,72,173,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00308_90d.jpg 74,104,92,179,0 93,47,128,95,0 37,107,65,187,0 62,42,88,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00378_270d.jpg 150,21,179,75,0 143,115,178,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00326_180d.jpg 101,98,135,186,0 98,5,120,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00473_270d.jpg 118,110,189,170,0 47,11,108,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00410.jpg 6,93,116,128,0 116,71,196,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00406_270d.jpg 81,110,131,198,0 34,12,82,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00235_180d.jpg 90,81,186,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00350_90d.jpg 35,49,125,114,0 140,108,197,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00315_270d.jpg 87,14,110,109,0 94,119,126,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00205.jpg 5,102,62,139,0 128,92,195,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00479_270d.jpg 99,84,191,121,0 60,3,92,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00402.jpg 19,35,103,108,0 112,120,184,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00217_90d.jpg 53,101,75,193,0 103,77,196,114,0 65,38,87,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00779.jpg 7,113,98,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00484.jpg 59,35,196,68,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00465_90d.jpg 19,64,71,136,0 86,44,165,106,0 148,116,177,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00529_90d.jpg 93,11,127,107,0 124,114,163,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00541_270d.jpg 101,37,175,105,0 7,11,99,65,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00795_270d.jpg 111,75,186,125,0 17,29,104,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00402_180d.jpg 97,91,182,165,0 16,20,89,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00341_270d.jpg 28,59,191,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00427_90d.jpg 89,125,136,181,0 139,59,196,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00435_180d.jpg 5,136,53,163,0 91,116,179,168,0 6,59,83,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00559.jpg 95,11,161,98,0 20,110,91,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00328_270d.jpg 122,81,199,120,0 6,110,117,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00287_180d.jpg 82,87,180,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00502_180d.jpg 84,66,197,96,0 6,43,77,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00454_90d.jpg 11,53,89,99,0 92,98,165,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00527_90d.jpg 6,56,88,126,0 97,129,160,193,0 15,25,111,89,0 121,84,191,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00272_90d.jpg 13,47,111,82,0 116,69,201,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00315_180d.jpg 92,87,187,110,0 3,94,82,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00509_90d.jpg 85,4,125,191,0 160,27,198,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00463_180d.jpg 10,6,60,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00226_90d.jpg 88,10,140,186,0 132,5,167,42,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00525_180d.jpg 8,99,101,162,0 106,59,190,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00367_180d.jpg 104,110,168,161,0 71,9,117,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00407.jpg 83,18,179,72,0 4,39,75,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00239_180d.jpg 31,122,114,147,0 5,92,69,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00526_180d.jpg 6,105,92,163,0 97,81,194,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00393_270d.jpg 67,55,132,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00391.jpg 4,20,40,55,0 78,47,183,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00299_180d.jpg 4,59,53,95,0 53,95,138,121,0 145,34,193,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00369_90d.jpg 36,12,178,101,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00271_90d.jpg 5,27,25,101,0 16,77,57,164,0 64,0,136,72,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00359_90d.jpg 7,82,196,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00335_270d.jpg 61,47,83,118,0 79,126,99,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00238.jpg 35,70,156,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00416.jpg 125,48,187,130,0 74,133,131,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00253.jpg 5,108,98,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00310.jpg 33,82,99,138,0 109,105,186,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00420_270d.jpg 73,96,106,193,0 9,9,84,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00372_270d.jpg 0,60,143,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00455_90d.jpg 102,107,160,187,0 78,5,107,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00458_180d.jpg 113,100,192,168,0 65,60,139,94,0 50,5,88,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00489_180d.jpg 4,104,101,158,0 105,40,180,93,0 108,78,186,132,0 55,116,100,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00792.jpg 93,69,194,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00387_180d.jpg 3,33,179,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00453_270d.jpg 97,76,179,199,0 22,2,87,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00390_90d.jpg 9,72,108,143,0 115,52,198,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00409_180d.jpg 143,64,196,120,0 61,62,139,126,0 1,117,58,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00403_180d.jpg 87,56,194,89,0 0,69,75,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00539_90d.jpg 39,73,174,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00207_180d.jpg 6,39,127,64,0 131,12,196,47,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00452.jpg 107,45,194,97,0 5,91,96,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00514_270d.jpg 98,64,141,151,0 50,1,93,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00776.jpg 100,116,161,143,0 141,135,197,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00302_90d.jpg 123,140,197,193,0 99,41,130,156,0 141,5,167,46,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00337_90d.jpg 127,28,152,113,0 143,125,196,170,0 72,123,119,170,0 126,172,185,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00410_180d.jpg 84,71,195,107,0 4,102,85,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00299_90d.jpg 105,4,141,53,0 78,53,104,138,0 113,145,166,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00281_90d.jpg 106,19,132,120,0 131,122,185,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00540.jpg 144,57,182,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00384_180d.jpg 62,24,115,141,0 6,157,140,185,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00261_270d.jpg 65,2,102,109,0 86,111,122,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00471.jpg 77,7,101,39,0 66,89,102,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00494_90d.jpg 2,142,195,199,0 60,3,190,46,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00545_180d.jpg 47,88,99,173,0 87,2,139,64,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00269_90d.jpg 80,38,188,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00537_180d.jpg 10,71,186,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00775_270d.jpg 80,4,106,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00496_90d.jpg 1,120,96,180,0 101,78,198,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00278.jpg 154,101,179,194,0 112,25,144,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00784_270d.jpg 162,10,183,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00391_90d.jpg 19,160,55,197,0 46,17,121,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00204_180d.jpg 31,75,157,113,0 10,10,111,43,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00318_180d.jpg 58,58,89,184,0 49,51,73,117,0 133,4,148,50,0 91,61,126,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00779_90d.jpg 112,102,140,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00319_180d.jpg 51,60,90,177,0 7,27,49,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00436_270d.jpg 59,7,132,63,0 3,79,58,132,0 87,121,160,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00242_90d.jpg 125,60,158,188,0 140,1,158,33,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00275_90d.jpg 91,88,125,187,0 117,6,144,87,0 122,93,145,158,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00467_180d.jpg 76,111,128,190,0 135,17,178,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00559_90d.jpg 10,39,99,106,0 109,109,192,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00398_180d.jpg 86,99,120,198,0 56,4,101,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00468.jpg 14,75,73,120,0 103,111,187,170,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00407_270d.jpg 127,83,182,180,0 114,4,162,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00208_90d.jpg 90,26,117,128,0 123,5,148,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00501_270d.jpg 85,22,117,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00290_270d.jpg 96,21,165,55,0 119,68,140,149,0 72,34,114,59,0 87,161,125,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00522_180d.jpg 22,89,98,167,0 102,17,165,86,0 76,54,118,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00202_90d.jpg 73,82,104,200,0 96,5,117,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00369_180d.jpg 12,22,101,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00271.jpg 100,6,173,25,0 37,17,123,57,0 129,64,200,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00377_180d.jpg 84,10,133,183,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00339_180d.jpg 80,5,128,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00309_270d.jpg 93,38,119,125,0 49,133,87,194,0 131,9,168,109,0 103,120,125,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00554.jpg 87,25,155,170,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00232_180d.jpg 21,68,181,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00796_90d.jpg 5,147,130,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00425_90d.jpg 7,11,82,68,0 108,102,185,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00490_90d.jpg 36,16,100,93,0 91,103,143,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00285_90d.jpg 51,52,140,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00277_90d.jpg 53,10,86,105,0 80,115,145,151,0 168,53,201,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00207_90d.jpg 136,6,161,127,0 153,131,188,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00253_270d.jpg 60,5,92,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00214.jpg 27,135,177,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00366_180d.jpg 94,20,148,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00409_270d.jpg 65,5,121,58,0 62,62,126,140,0 117,143,169,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00786_270d.jpg 27,11,47,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00553_180d.jpg 21,2,163,185,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00227.jpg 3,92,65,129,0 59,108,193,152,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00427.jpg 20,90,75,135,0 87,139,141,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00293_90d.jpg 89,140,135,193,0 141,50,189,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00254_90d.jpg 53,66,133,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00223.jpg 78,99,174,121,0 135,132,193,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00480_180d.jpg 107,11,193,67,0 39,86,110,145,0 113,146,200,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00784_180d.jpg 68,161,191,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00235_90d.jpg 90,90,118,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00229_180d.jpg 102,111,176,149,0 139,55,193,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00215_90d.jpg 93,156,134,193,0 136,120,174,153,0 159,12,196,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00794.jpg 15,64,44,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00217.jpg 8,54,99,75,0 87,104,123,195,0 118,65,162,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00372.jpg 60,58,113,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00462.jpg 103,28,151,96,0 58,106,95,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00278_270d.jpg 5,154,99,180,0 117,112,175,145,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00782.jpg 73,129,189,155,0 113,165,192,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00342.jpg 77,47,148,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00359.jpg 73,8,118,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00459_90d.jpg 104,95,158,193,0 118,12,171,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00777.jpg 6,82,94,110,0 108,94,194,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00475.jpg 5,7,51,116,0 57,125,193,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00547.jpg 123,9,158,44,0 75,103,136,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00422_180d.jpg 126,126,186,186,0 10,7,62,65,0 83,82,121,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00263_90d.jpg 80,103,130,197,0 46,1,90,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00379_180d.jpg 73,77,144,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00329_270d.jpg 105,121,156,172,0 52,55,104,138,0 12,32,57,57,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00359_180d.jpg 82,4,128,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00419_90d.jpg 19,23,121,86,0 131,89,191,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00480_90d.jpg 133,107,189,193,0 54,39,114,110,0 12,113,53,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00431_180d.jpg 94,127,167,192,0 12,62,84,134,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00417_90d.jpg 11,45,90,107,0 105,101,182,150,0 107,9,168,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00363_90d.jpg 31,77,151,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00227_270d.jpg 71,3,109,66,0 47,59,92,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00297_90d.jpg 95,79,122,200,0 81,1,113,67,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00486_180d.jpg 117,86,198,125,0 32,120,113,177,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00340.jpg 26,12,55,69,0 72,78,133,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00469.jpg 6,141,71,166,0 82,161,146,191,0 107,36,169,63,0 72,50,190,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00391_270d.jpg 145,4,181,41,0 79,78,153,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00266_180d.jpg 38,56,169,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00412_180d.jpg 17,120,92,173,0 103,68,190,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00262_90d.jpg 91,107,124,199,0 64,3,100,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00518_270d.jpg 68,7,127,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00563_90d.jpg 5,35,91,91,0 116,100,198,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00403_270d.jpg 57,7,89,114,0 69,126,102,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00265.jpg 1,98,103,126,0 111,74,197,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00206_90d.jpg 87,89,123,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00526_90d.jpg 36,6,95,92,0 80,97,118,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00376.jpg 5,104,78,153,0 79,71,152,99,0 91,6,179,32,0 6,25,79,74,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00365_90d.jpg 35,54,197,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00368.jpg 105,37,178,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00305_270d.jpg 89,12,130,102,0 65,42,84,107,0 35,111,63,156,0 68,122,87,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00448_180d.jpg 81,101,184,141,0 58,12,98,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00563_270d.jpg 109,110,194,166,0 3,17,83,101,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00255_90d.jpg 76,8,110,93,0 126,146,161,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00401_90d.jpg 37,98,109,189,0 122,10,177,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00551.jpg 71,76,168,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00792_90d.jpg 69,6,97,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00236_90d.jpg 56,63,84,200,0 70,4,98,40,0 116,7,197,44,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00452_90d.jpg 44,6,98,94,0 90,104,151,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00240_270d.jpg 60,12,100,168,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00793.jpg 43,4,88,85,0 26,97,64,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00540_90d.jpg 56,18,195,57,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00286_90d.jpg 62,27,110,65,0 122,63,170,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00517.jpg 7,55,199,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00228.jpg 15,57,139,85,0 149,75,171,103,0 121,117,165,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00539.jpg 57,40,127,173,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00341.jpg 59,10,104,171,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00230_180d.jpg 172,77,196,114,0 15,64,162,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00240_90d.jpg 99,33,140,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00319_270d.jpg 60,111,177,150,0 27,152,61,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00242.jpg 13,126,140,157,0 168,140,199,157,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00204.jpg 44,87,169,124,0 90,157,190,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00231_90d.jpg 33,60,61,176,0 53,4,73,39,0 96,26,163,68,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00558_180d.jpg 50,98,114,185,0 116,6,177,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00367.jpg 33,39,96,89,0 84,89,129,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00313_90d.jpg 94,49,127,152,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00259.jpg 3,53,109,89,0 112,66,197,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00555_180d.jpg 3,76,152,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00216.jpg 14,89,42,120,0 114,72,191,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00424_270d.jpg 18,42,131,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00491.jpg 112,74,197,127,0 28,135,100,192,0 113,21,175,60,0 19,75,83,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00524.jpg 102,119,195,169,0 2,152,96,179,0 106,9,158,67,0 40,73,96,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00517_180d.jpg 1,91,194,145,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00292_180d.jpg 66,101,195,131,0 6,67,60,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00282.jpg 99,50,179,69,0 65,61,99,101,0 104,120,142,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00795_180d.jpg 76,111,126,186,0 135,16,172,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00445_270d.jpg 96,56,196,128,0 3,89,94,164,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00549.jpg 75,77,139,196,0 159,125,197,171,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00358_90d.jpg 15,79,194,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00534_180d.jpg 34,70,122,113,0 11,38,105,64,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00346_270d.jpg 13,56,180,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00505_90d.jpg 126,6,158,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00296_270d.jpg 118,1,149,94,0 70,95,136,144,0 66,151,81,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00234_90d.jpg 92,135,115,195,0 113,69,150,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00790.jpg 47,73,114,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00240.jpg 12,100,167,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00240_180d.jpg 33,60,189,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00302_180d.jpg 140,3,193,76,0 41,70,156,100,0 5,33,46,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00333_180d.jpg 120,78,195,104,0 2,95,104,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00222_270d.jpg 13,18,45,105,0 1,118,24,171,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00469_270d.jpg 34,6,60,72,0 8,82,39,147,0 136,107,164,170,0 102,72,150,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00293_270d.jpg 66,8,111,61,0 11,89,59,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00523.jpg 22,64,200,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00527.jpg 75,7,144,88,0 8,98,71,159,0 112,16,175,110,0 21,122,116,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00528_270d.jpg 98,95,191,194,0 10,32,95,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00535_180d.jpg 99,99,192,135,0 6,70,99,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00447_270d.jpg 92,101,195,141,0 7,89,88,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00376_270d.jpg 47,5,96,79,0 100,79,130,153,0 167,91,194,180,0 125,6,176,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00543_90d.jpg 12,43,83,78,0 106,69,196,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00245_180d.jpg 111,93,191,116,0 139,51,193,74,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00250_90d.jpg 103,146,125,172,0 97,41,123,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00797_270d.jpg 161,100,186,127,0 0,85,124,117,0 0,140,25,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00233_180d.jpg 13,158,141,182,0 15,101,44,145,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00500.jpg 6,163,196,191,0 3,74,189,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00508_270d.jpg 67,31,91,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00377_270d.jpg 10,68,183,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00520.jpg 1,96,196,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00499_180d.jpg 45,125,118,193,0 123,62,193,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00303_90d.jpg 12,111,69,193,0 61,61,163,91,0 166,80,198,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00339.jpg 73,21,120,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00245_90d.jpg 83,111,106,191,0 125,139,149,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00477_270d.jpg 107,17,174,111,0 40,122,100,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00796_270d.jpg 71,25,195,54,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00495_270d.jpg 6,58,158,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00485_270d.jpg 39,5,70,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00255_180d.jpg 8,90,93,124,0 146,39,191,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00213_180d.jpg 11,49,129,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00450.jpg 2,117,96,183,0 103,49,196,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00400.jpg 68,12,108,115,0 93,124,134,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00314.jpg 40,93,140,136,0 47,8,140,30,0 69,155,118,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00552_180d.jpg 66,66,107,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00540_180d.jpg 18,5,57,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00229_90d.jpg 50,102,88,176,0 116,139,145,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00206.jpg 8,88,111,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00399_180d.jpg 82,99,148,194,0 30,9,99,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00225_180d.jpg 13,77,113,104,0 2,48,76,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00326.jpg 66,14,99,101,0 81,116,102,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00538_180d.jpg 82,16,129,173,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00261_90d.jpg 97,92,136,199,0 78,0,114,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00384_90d.jpg 58,62,176,115,0 14,6,42,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00263_180d.jpg 103,70,197,119,0 1,110,98,153,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00544_180d.jpg 74,7,116,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00403_90d.jpg 110,87,144,194,0 98,0,131,75,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00512.jpg 30,74,83,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00246_180d.jpg 152,93,188,111,0 51,100,112,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00514.jpg 64,59,150,101,0 1,108,58,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00225.jpg 88,96,187,122,0 125,124,198,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00232.jpg 20,70,179,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00361_270d.jpg 114,11,167,76,0 20,61,106,105,0 63,5,87,36,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00442.jpg 1,78,95,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00467.jpg 73,10,124,88,0 23,101,65,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00470_90d.jpg 3,32,78,122,0 82,119,151,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00350_270d.jpg 75,87,164,152,0 4,45,61,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00479.jpg 84,9,120,100,0 3,108,87,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00340_90d.jpg 11,145,69,175,0 77,67,190,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00778.jpg 122,91,198,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00546_270d.jpg 4,103,197,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00299.jpg 148,105,196,140,0 63,79,147,104,0 8,114,55,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00271_180d.jpg 27,174,101,194,0 77,142,164,183,0 0,64,72,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00344_90d.jpg 18,80,103,156,0 110,58,198,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00256_90d.jpg 69,114,95,194,0 85,1,112,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00282_90d.jpg 49,21,70,102,0 60,101,101,136,0 120,58,161,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00493_270d.jpg 102,47,200,107,0 2,63,101,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00254_270d.jpg 67,58,147,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00507.jpg 7,106,200,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00454.jpg 102,12,147,88,0 62,93,102,164,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00262_180d.jpg 107,75,199,108,0 3,100,93,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00457_180d.jpg 107,6,131,149,0 9,34,86,80,0 150,1,189,30,0 166,27,193,48,0 157,46,197,69,0 163,76,200,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00356_180d.jpg 77,142,151,192,0 14,70,70,138,0 2,0,27,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00226.jpg 15,89,190,139,0 159,132,195,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00353_180d.jpg 17,100,112,157,0 119,21,174,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00277.jpg 96,54,190,85,0 50,81,85,144,0 115,168,147,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00380_90d.jpg 89,104,126,188,0 101,9,131,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00248_180d.jpg 23,156,81,173,0 68,58,134,81,0 52,21,117,46,0 136,6,196,31,0 144,168,186,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00504_270d.jpg 136,15,172,120,0 25,125,53,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00227_180d.jpg 135,70,198,108,0 7,47,142,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00526.jpg 109,37,194,94,0 7,81,103,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00241_180d.jpg 8,106,185,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00426_270d.jpg 48,7,98,55,0 4,65,48,106,0 144,78,195,139,0 86,145,139,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00331_270d.jpg 108,1,136,79,0 54,102,126,151,0 36,158,54,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00309_90d.jpg 80,76,106,163,0 113,7,151,68,0 32,92,69,192,0 75,26,97,81,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00421.jpg 94,27,127,116,0 68,124,103,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00353_90d.jpg 42,17,100,112,0 112,119,179,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00453_180d.jpg 2,97,125,179,0 118,21,199,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00492_180d.jpg 41,5,82,108,0 65,107,139,127,0 161,0,180,37,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00507_180d.jpg 0,71,194,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00226_270d.jpg 60,15,111,191,0 33,159,68,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00217_270d.jpg 124,8,147,100,0 4,87,96,124,0 113,118,135,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00515_270d.jpg 48,117,65,201,0 26,7,64,101,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00434.jpg 67,1,118,82,0 10,85,69,145,0 111,109,158,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00207_270d.jpg 39,74,64,195,0 13,5,48,70,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00472_270d.jpg 125,106,194,153,0 53,10,108,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00557_270d.jpg 60,57,166,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00798_270d.jpg 4,71,176,97,0 7,132,71,155,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00777_180d.jpg 106,89,195,118,0 6,79,93,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00448_90d.jpg 58,81,98,184,0 107,58,188,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00479_180d.jpg 80,99,117,191,0 113,59,198,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00797.jpg 100,14,126,38,0 85,76,116,199,0 140,175,158,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00385_180d.jpg 158,171,193,190,0 43,121,132,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00544_270d.jpg 7,85,194,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00352_180d.jpg 1,111,94,166,0 105,60,194,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00795.jpg 75,14,124,88,0 29,96,65,183,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00776_180d.jpg 39,56,101,84,0 3,34,60,65,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00284.jpg 75,21,185,78,0 25,82,79,159,0 130,163,161,199,0 5,6,27,58,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00543_270d.jpg 117,123,187,158,0 4,76,93,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00800_90d.jpg 6,82,166,103,0 77,23,180,44,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00204_90d.jpg 86,31,124,157,0 157,10,190,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00460_180d.jpg 152,128,187,189,0 39,66,146,116,0 11,7,44,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00482_180d.jpg 90,98,145,197,0 93,10,129,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00506.jpg 6,92,195,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00408.jpg 99,16,197,72,0 3,73,87,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00288_180d.jpg 5,71,92,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00531_90d.jpg 94,5,147,95,0 133,107,176,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00492_270d.jpg 5,119,108,160,0 107,62,127,136,0 0,21,38,40,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00333.jpg 6,96,80,121,0 97,75,198,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00392_180d.jpg 19,10,81,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00265_90d.jpg 97,97,126,200,0 74,3,114,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00339_90d.jpg 20,80,195,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00553_270d.jpg 2,38,185,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00395.jpg 33,31,113,105,0 117,124,176,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00502_270d.jpg 67,4,96,117,0 43,124,88,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00780_90d.jpg 142,145,188,183,0 151,67,178,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00453.jpg 76,21,198,102,0 2,113,82,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00311_180d.jpg 92,55,141,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00260_270d.jpg 117,4,147,106,0 104,108,128,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00506_180d.jpg 5,82,195,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00234_270d.jpg 85,6,108,66,0 50,79,86,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00216_90d.jpg 88,158,120,187,0 72,9,115,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00327_270d.jpg 92,55,143,107,0 41,109,78,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00482_270d.jpg 98,56,197,111,0 10,72,91,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00509_270d.jpg 74,10,114,197,0 2,41,40,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00441_90d.jpg 74,5,165,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00413_270d.jpg 34,7,96,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00561_90d.jpg 59,36,117,108,0 123,108,193,183,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00267.jpg 111,2,180,115,0 48,145,96,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00230_270d.jpg 78,5,115,29,0 64,39,103,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00273.jpg 132,43,197,112,0 70,128,120,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00279.jpg 114,88,169,113,0 34,70,78,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00484_180d.jpg 4,131,142,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00784.jpg 10,18,132,38,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00561_180d.jpg 36,83,108,140,0 108,7,183,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00794_180d.jpg 156,71,186,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00370_90d.jpg 75,62,100,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00277_180d.jpg 10,114,105,146,0 115,55,151,119,0 53,0,86,32,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00548_180d.jpg 26,134,55,178,0 57,74,111,122,0 122,6,164,47,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00524_90d.jpg 119,5,170,99,0 152,104,180,199,0 8,42,68,95,0 72,104,132,161,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00479_90d.jpg 8,80,100,117,0 107,113,141,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00257.jpg 1,53,104,89,0 108,71,199,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00362_270d.jpg 124,94,182,153,0 20,143,109,173,0 129,145,193,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00467_90d.jpg 9,76,88,128,0 100,135,183,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00360.jpg 14,28,78,75,0 58,79,96,167,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00562_180d.jpg 60,86,118,181,0 105,3,176,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00270_90d.jpg 2,116,68,189,0 73,74,172,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00546.jpg 103,3,158,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00780_180d.jpg 145,12,183,58,0 67,22,140,49,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00424.jpg 42,70,96,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00315_90d.jpg 89,92,112,187,0 74,3,106,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00459.jpg 8,105,105,157,0 114,118,188,170,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00316_180d.jpg 34,123,70,181,0 50,26,74,78,0 96,0,141,111,0 64,48,83,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00556.jpg 25,2,98,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00365.jpg 90,36,146,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00375_270d.jpg 53,77,79,168,0 23,17,74,73,0 79,92,105,157,0 72,31,105,81,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00307.jpg 74,5,94,83,0 35,107,68,148,0 109,7,141,81,0 93,92,117,145,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00410_270d.jpg 72,6,107,117,0 102,116,129,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00799_90d.jpg 70,40,187,66,0 7,102,167,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00301.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00437_180d.jpg 23,111,187,173,0 0,25,44,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00456_270d.jpg 97,5,163,54,0 0,43,91,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00532.jpg 9,95,108,122,0 113,108,196,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00559_180d.jpg 39,101,106,189,0 109,8,181,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00505_270d.jpg 42,4,73,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00451_90d.jpg 99,98,159,198,0 52,2,99,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00521_270d.jpg 116,101,165,193,0 61,7,115,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00333_90d.jpg 95,120,121,195,0 75,2,105,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00542_180d.jpg 14,73,195,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00434_180d.jpg 82,117,134,199,0 131,54,191,115,0 42,0,90,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00299_270d.jpg 59,148,95,197,0 95,63,121,148,0 35,8,87,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00511_90d.jpg 68,93,133,186,0 139,13,188,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00389_90d.jpg 95,4,168,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00486_270d.jpg 86,3,125,84,0 120,88,177,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00462_90d.jpg 27,49,97,98,0 105,105,180,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00778_180d.jpg 2,85,79,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00284_90d.jpg 20,15,79,126,0 81,121,160,176,0 163,39,200,71,0 5,173,58,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00411_180d.jpg 58,76,103,143,0 107,1,161,70,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00345_270d.jpg 10,77,144,146,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00254.jpg 58,54,134,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00402_270d.jpg 91,19,166,104,0 20,112,80,185,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00411.jpg 98,57,142,123,0 40,130,93,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00528_180d.jpg 7,98,106,191,0 99,9,169,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00332_90d.jpg 91,90,120,187,0 77,1,112,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00259_180d.jpg 91,110,198,147,0 3,92,89,134,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00349_90d.jpg 65,123,123,180,0 127,62,198,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00488_180d.jpg 6,110,98,172,0 103,89,197,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00295_180d.jpg 112,95,199,127,0 5,108,94,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00401_180d.jpg 98,90,189,162,0 10,23,83,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00248.jpg 120,27,177,43,0 67,119,132,141,0 84,154,148,178,0 5,169,64,193,0 15,14,56,31,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00218_90d.jpg 52,48,76,166,0 87,36,112,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00547_90d.jpg 8,42,44,78,0 102,64,193,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00451_180d.jpg 98,41,198,100,0 2,101,88,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00264_90d.jpg 90,94,125,200,0 79,0,114,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00313_180d.jpg 49,72,152,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00548_270d.jpg 134,146,178,175,0 74,90,122,144,0 7,37,48,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00307_180d.jpg 106,116,127,195,0 132,51,166,93,0 59,118,92,193,0 83,54,108,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00298.jpg 10,50,135,74,0 25,100,173,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00508.jpg 31,109,195,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00367_270d.jpg 110,33,162,97,0 9,84,111,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00307_90d.jpg 4,106,83,127,0 106,132,149,166,0 6,59,82,92,0 91,83,146,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00274.jpg 7,109,87,147,0 103,96,185,110,0 109,110,197,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00446_270d.jpg 93,49,194,114,0 3,92,90,170,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00234.jpg 6,93,65,115,0 79,114,131,149,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00280.jpg 50,82,130,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00322_270d.jpg 94,95,140,193,0 49,22,134,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00340_180d.jpg 145,130,175,188,0 67,10,129,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00789_180d.jpg 39,122,60,174,0 21,17,63,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00491_180d.jpg 3,72,89,126,0 100,7,173,65,0 25,139,88,179,0 117,64,182,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00392_90d.jpg 11,19,190,81,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00363.jpg 91,32,123,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00275_270d.jpg 74,14,108,113,0 56,114,83,195,0 56,43,77,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00308_270d.jpg 107,22,125,97,0 71,106,107,154,0 135,14,163,94,0 112,106,137,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00337_180d.jpg 28,48,113,73,0 125,4,170,57,0 123,80,170,127,0 172,15,196,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00377.jpg 68,17,116,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00338_180d.jpg 67,99,122,195,0 96,4,134,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00530.jpg 98,70,195,94,0 30,83,92,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00233_90d.jpg 17,13,41,141,0 54,15,99,44,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00520_180d.jpg 4,58,200,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00203_270d.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00341_90d.jpg 9,96,172,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00253_90d.jpg 107,102,141,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00532_180d.jpg 92,77,192,105,0 4,52,88,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00268_90d.jpg 56,60,195,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00465_180d.jpg 64,128,136,180,0 44,35,106,114,0 116,23,180,52,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00274_180d.jpg 113,52,194,91,0 15,89,98,104,0 3,70,92,90,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00441_270d.jpg 35,15,125,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00531.jpg 106,94,195,146,0 6,133,93,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00476_90d.jpg 22,123,99,187,0 110,61,179,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00325_270d.jpg 91,75,193,106,0 0,81,84,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00379.jpg 57,71,127,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00781_90d.jpg 49,91,92,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00477.jpg 17,27,110,92,0 122,100,193,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00478.jpg 115,24,189,92,0 60,111,118,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00258_90d.jpg 155,6,178,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00360_270d.jpg 124,14,173,79,0 33,58,121,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00418_270d.jpg 1,8,108,74,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00357_180d.jpg 61,1,132,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00207.jpg 74,136,194,160,0 5,153,69,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00211_90d.jpg 86,81,114,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00528_90d.jpg 8,7,102,106,0 104,99,191,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00451_270d.jpg 42,3,100,103,0 101,113,147,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00349_270d.jpg 76,21,135,78,0 2,91,72,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00335.jpg 47,117,117,138,0 126,101,195,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00449_90d.jpg 55,6,126,52,0 139,48,193,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00419_270d.jpg 79,115,180,178,0 10,38,70,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00782_90d.jpg 129,11,156,128,0 165,8,188,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00255.jpg 108,76,192,109,0 10,127,54,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00524_180d.jpg 5,30,99,81,0 104,20,199,48,0 42,132,95,191,0 104,68,161,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00368_270d.jpg 1,105,163,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00397_90d.jpg 6,112,118,150,0 126,74,200,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00266.jpg 32,105,162,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00322_180d.jpg 8,94,106,140,0 122,48,179,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00276.jpg 20,34,65,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00287.jpg 21,81,118,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00421_180d.jpg 73,83,107,173,0 97,7,133,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00353_270d.jpg 100,89,157,184,0 22,27,87,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00264.jpg 1,91,106,125,0 116,79,200,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00784_90d.jpg 17,68,38,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00345_90d.jpg 55,55,190,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00475_180d.jpg 149,83,196,193,0 7,27,144,75,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00415.jpg 54,8,93,92,0 2,101,57,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00316_270d.jpg 123,131,181,167,0 26,127,78,151,0 0,60,111,105,0 48,118,112,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00346_180d.jpg 78,13,145,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00203_90d.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00461.jpg 62,4,101,58,0 92,54,139,107,0 137,120,193,164,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00201_90d.jpg 91,6,117,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00462_180d.jpg 49,103,98,172,0 105,20,143,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00341_180d.jpg 96,28,142,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00347_90d.jpg 72,84,118,180,0 122,0,176,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00491_90d.jpg 74,3,128,89,0 135,100,193,173,0 20,25,60,88,0 74,117,136,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00202_270d.jpg 95,1,126,119,0 83,142,104,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00375.jpg 77,121,167,146,0 17,126,72,177,0 92,95,156,120,0 31,95,80,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00323_90d.jpg 3,33,41,56,0 29,60,57,117,0 64,106,194,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00352.jpg 107,34,199,88,0 7,78,95,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00552_90d.jpg 0,66,134,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00370_180d.jpg 62,99,176,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00438.jpg 84,40,119,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00245_270d.jpg 93,10,116,90,0 52,8,75,62,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00287_90d.jpg 80,82,112,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00373_90d.jpg 9,88,189,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00470.jpg 79,4,168,77,0 2,83,81,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00392.jpg 120,12,181,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00444_270d.jpg 92,4,181,98,0 0,44,88,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00393_90d.jpg 68,76,133,146,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00361_90d.jpg 33,125,85,190,0 93,96,180,140,0 113,165,138,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00286.jpg 136,63,173,109,0 97,122,137,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00494_270d.jpg 6,2,198,59,0 10,155,140,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00530_180d.jpg 5,105,103,130,0 108,77,171,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00535_90d.jpg 64,99,100,192,0 88,6,130,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00413.jpg 7,104,105,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00537_90d.jpg 77,10,128,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00526_270d.jpg 105,109,163,195,0 81,7,119,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00476_180d.jpg 123,100,187,177,0 61,21,120,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00495_90d.jpg 42,69,194,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00351_270d.jpg 52,11,111,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00272_270d.jpg 89,119,186,154,0 0,108,84,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00353.jpg 89,43,183,99,0 27,113,81,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00242_270d.jpg 43,13,74,141,0 42,168,60,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00515_90d.jpg 135,0,152,84,0 137,100,175,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00344_270d.jpg 96,45,182,121,0 2,94,90,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00244_270d.jpg 68,21,113,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00340_270d.jpg 131,26,189,56,0 10,72,122,134,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00416_90d.jpg 47,13,131,76,0 133,69,200,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00268.jpg 101,57,140,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00538.jpg 72,27,118,183,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00468_270d.jpg 79,14,125,74,0 29,103,89,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00366.jpg 53,1,106,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00774_180d.jpg 125,152,198,173,0 55,38,80,71,0 0,4,53,32,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00209.jpg 16,143,114,169,0 123,170,167,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00509.jpg 10,86,196,125,0 41,160,173,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00263_270d.jpg 71,4,119,98,0 110,103,153,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00375_180d.jpg 33,53,124,79,0 128,22,184,74,0 44,79,109,105,0 120,72,170,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00478_270d.jpg 107,115,176,190,0 11,60,89,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00247_90d.jpg 60,144,79,192,0 77,129,98,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00449_180d.jpg 6,74,52,144,0 48,7,85,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00482.jpg 56,3,110,101,0 72,109,107,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00248_270d.jpg 156,120,173,178,0 58,67,81,133,0 21,84,46,149,0 7,5,32,65,0 169,15,187,57,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00551_90d.jpg 76,32,126,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00775.jpg 4,94,82,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00554_270d.jpg 29,87,175,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00432_180d.jpg 95,62,157,159,0 106,7,155,73,0 41,93,93,150,0 22,170,45,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00798_180d.jpg 104,4,130,175,0 46,7,69,71,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00775_180d.jpg 118,80,197,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00373_270d.jpg 11,79,190,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00404.jpg 8,79,106,111,0 117,59,199,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00365_180d.jpg 54,3,111,164,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00776_90d.jpg 116,39,144,101,0 135,3,166,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00797_180d.jpg 74,161,101,186,0 84,0,116,124,0 42,0,61,25,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00218.jpg 35,53,152,76,0 76,87,164,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00522_90d.jpg 32,22,111,98,0 113,102,183,165,0 101,76,146,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00511.jpg 15,69,107,132,0 104,139,187,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00456_180d.jpg 147,96,196,162,0 122,0,158,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00548.jpg 146,22,174,65,0 90,78,143,125,0 37,153,78,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00381_90d.jpg 89,89,121,200,0 134,3,164,38,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00561_270d.jpg 83,93,140,165,0 8,18,76,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00442_90d.jpg 77,105,194,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00359_270d.jpg 4,73,192,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00544_90d.jpg 5,74,193,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00516.jpg 2,81,196,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00796.jpg 25,6,53,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00320_270d.jpg 37,77,177,116,0 8,123,51,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00209_270d.jpg 31,16,58,115,0 5,123,30,168,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00400_180d.jpg 92,84,133,188,0 66,8,108,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00385_270d.jpg 172,8,191,43,0 121,69,172,158,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00796_180d.jpg 147,70,176,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00440_270d.jpg 39,6,133,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00423.jpg 9,35,100,114,0 113,115,192,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00300_90d.jpg 103,115,125,197,0 113,38,137,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00368_180d.jpg 22,1,96,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00505.jpg 4,127,194,157,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00301_90d.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00521.jpg 101,35,192,83,0 7,85,93,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00510.jpg 63,114,177,148,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00462_270d.jpg 103,103,172,152,0 21,58,94,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00235.jpg 15,91,110,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00300.jpg 4,104,85,125,0 99,113,162,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00201_180d.jpg 6,83,91,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00466_180d.jpg 24,130,97,171,0 6,49,72,128,0 79,27,141,57,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00231_270d.jpg 139,25,167,141,0 127,162,147,197,0 37,133,104,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00387_270d.jpg 33,22,90,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00296.jpg 1,52,93,81,0 95,64,143,129,0 151,119,189,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00394_90d.jpg 71,150,99,194,0 85,15,132,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00430_270d.jpg 89,7,132,109,0 31,122,80,201,0 5,9,49,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00218_270d.jpg 123,35,148,153,0 88,76,113,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00458_270d.jpg 100,9,169,88,0 60,62,94,136,0 5,113,56,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00519_180d.jpg 3,63,197,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00211_270d.jpg 85,17,113,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00202.jpg 1,74,118,104,0 142,96,195,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00314_180d.jpg 60,63,161,107,0 60,169,154,192,0 82,18,132,45,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00242_180d.jpg 60,42,188,74,0 1,42,33,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00279_180d.jpg 31,86,87,112,0 122,67,167,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00468_180d.jpg 127,79,187,125,0 13,29,98,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00433_270d.jpg 89,107,177,175,0 0,66,82,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00551_270d.jpg 74,71,124,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00318.jpg 112,16,142,141,0 128,83,151,148,0 53,150,67,195,0 75,44,109,138,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00322_90d.jpg 59,8,106,106,0 66,122,152,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00217_180d.jpg 101,124,193,146,0 77,4,114,96,0 38,113,83,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00487.jpg 97,47,199,117,0 7,94,96,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00205_90d.jpg 101,138,140,196,0 92,5,109,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00262_270d.jpg 75,2,108,94,0 100,108,136,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00431.jpg 34,8,106,72,0 117,66,188,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00460.jpg 14,11,48,71,0 55,84,161,133,0 157,140,189,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00380_270d.jpg 73,13,110,97,0 69,107,99,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00258_270d.jpg 22,7,45,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00481_90d.jpg 61,10,133,55,0 137,58,194,132,0 48,110,84,188,0 34,0,60,55,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00345.jpg 77,56,145,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00273_180d.jpg 3,87,69,157,0 80,12,131,72,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00267_180d.jpg 20,84,90,198,0 104,3,153,55,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00284_180d.jpg 15,121,126,179,0 121,40,176,118,0 39,0,71,37,0 173,141,196,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00780.jpg 18,142,55,187,0 61,151,133,177,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00270_270d.jpg 132,12,198,85,0 28,90,126,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00252_90d.jpg 47,54,126,112,0 130,106,193,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00278_90d.jpg 101,21,195,47,0 24,56,83,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00520_270d.jpg 58,1,104,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00554_90d.jpg 24,45,171,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00496_270d.jpg 103,21,199,81,0 2,58,98,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00369.jpg 100,37,188,177,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00433_90d.jpg 22,26,111,94,0 117,83,200,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00390_270d.jpg 91,58,190,129,0 2,87,85,149,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00430.jpg 7,69,108,110,0 122,120,200,168,0 9,152,72,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00414.jpg 108,106,200,132,0 12,108,86,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00308.jpg 22,75,96,92,0 106,93,153,128,0 14,38,93,65,0 106,63,158,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00514_180d.jpg 50,98,137,141,0 142,49,200,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00371_90d.jpg 52,81,150,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00510_90d.jpg 114,23,149,138,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00401_270d.jpg 90,12,163,103,0 23,118,78,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00495.jpg 58,43,131,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00481_270d.jpg 67,146,138,191,0 6,69,63,143,0 115,13,152,91,0 139,146,165,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00476.jpg 14,23,77,99,0 81,111,139,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00376_90d.jpg 103,122,154,196,0 70,48,99,122,0 5,21,32,110,0 24,121,74,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00482_90d.jpg 2,90,101,145,0 108,93,190,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00228_180d.jpg 61,114,186,143,0 29,96,52,125,0 35,6,80,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00495_180d.jpg 69,6,143,157,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00223_270d.jpg 78,78,101,175,0 40,135,68,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00550_90d.jpg 74,74,167,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00541.jpg 37,26,104,98,0 11,102,64,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00791_90d.jpg 30,122,106,159,0 119,150,175,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00472.jpg 106,6,152,74,0 10,92,77,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00498.jpg 121,78,195,140,0 48,146,127,191,0 76,24,145,68,0 6,74,64,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00216_270d.jpg 80,14,112,43,0 85,114,128,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00203.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00342_90d.jpg 46,52,187,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00235_270d.jpg 81,15,109,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00783_270d.jpg 42,143,70,177,0 165,6,183,90,0 80,43,157,82,0 9,50,73,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00342_180d.jpg 52,13,124,153,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00277_270d.jpg 114,96,146,191,0 56,50,119,86,0 0,115,32,148,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00245.jpg 10,84,89,106,0 8,126,61,148,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00367_90d.jpg 38,104,89,168,0 88,71,191,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00236.jpg 1,57,137,84,0 161,70,196,97,0 157,116,193,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00508_90d.jpg 108,5,133,170,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00244_180d.jpg 5,68,180,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00268_180d.jpg 60,5,100,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00347_270d.jpg 81,21,127,117,0 24,118,78,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00504_90d.jpg 28,81,64,186,0 147,6,175,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00414_180d.jpg 0,67,93,94,0 114,52,189,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00311.jpg 60,77,108,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00541_90d.jpg 25,96,98,164,0 101,136,194,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00205_180d.jpg 138,60,196,98,0 5,91,73,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00512_270d.jpg 35,30,126,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00269.jpg 115,80,162,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00316_90d.jpg 18,34,77,70,0 122,50,174,74,0 88,96,201,141,0 88,64,152,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00395_180d.jpg 87,94,168,169,0 24,9,84,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00426_180d.jpg 146,47,194,97,0 95,4,136,48,0 62,144,123,195,0 9,86,56,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00265_180d.jpg 97,73,200,102,0 3,86,90,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00781_270d.jpg 107,1,151,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00292_270d.jpg 101,6,132,135,0 67,141,128,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00795_90d.jpg 13,76,88,126,0 95,135,184,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00292_90d.jpg 68,66,98,195,0 72,6,133,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00226_180d.jpg 10,60,186,111,0 5,33,42,68,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00800.jpg 98,7,118,165,0 157,77,177,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00214_90d.jpg 135,23,182,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00269_180d.jpg 38,12,86,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00220.jpg 125,120,196,145,0 61,153,102,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00312_180d.jpg 128,85,197,135,0 57,15,133,63,0 4,6,59,35,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00330_180d.jpg 97,51,151,122,0 38,29,93,54,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00331_90d.jpg 64,122,91,200,0 74,50,146,99,0 146,8,164,43,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00246_90d.jpg 88,152,106,188,0 77,51,100,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00387.jpg 22,110,197,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00302_270d.jpg 4,8,77,61,0 70,45,100,160,0 33,155,59,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00463_270d.jpg 6,141,107,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00449.jpg 149,56,194,125,0 116,139,152,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00563_180d.jpg 35,109,91,194,0 100,2,184,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00560.jpg 72,16,128,84,0 60,96,84,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00496.jpg 21,2,80,96,0 58,102,122,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00535.jpg 9,65,101,100,0 102,88,194,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00329_90d.jpg 43,29,95,80,0 95,63,148,146,0 144,144,189,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00507_90d.jpg 105,0,128,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00267_270d.jpg 84,111,198,181,0 4,48,56,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00213_270d.jpg 49,72,78,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00774.jpg 3,27,75,47,0 121,129,145,161,0 148,168,200,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00213.jpg 72,122,189,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00297_270d.jpg 77,1,104,122,0 87,134,119,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00417.jpg 94,12,155,89,0 51,106,99,181,0 110,107,191,167,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00205_270d.jpg 61,5,99,63,0 91,128,108,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00549_90d.jpg 76,61,197,126,0 125,3,172,42,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00366_270d.jpg 20,53,199,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00337.jpg 88,127,172,151,0 31,143,75,195,0 31,73,77,119,0 5,127,28,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00289_270d.jpg 113,106,132,159,0 59,151,105,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00291.jpg 112,59,196,84,0 11,74,99,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00332_180d.jpg 90,79,187,108,0 1,88,83,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00485_180d.jpg 5,39,196,70,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00220_180d.jpg 4,54,76,80,0 98,23,140,47,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00288.jpg 109,93,195,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00357_270d.jpg 1,69,195,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00243.jpg 96,50,196,87,0 127,114,198,131,0 16,129,77,158,0 83,162,113,187,0 25,155,77,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00456_90d.jpg 37,147,103,196,0 108,122,201,158,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00557_180d.jpg 99,60,144,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00449_270d.jpg 74,149,144,195,0 7,116,61,153,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00432.jpg 44,41,105,137,0 46,127,94,192,0 108,50,159,106,0 156,1,178,29,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00249.jpg 10,89,39,116,0 52,97,181,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00201_270d.jpg 83,110,109,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00535_270d.jpg 99,9,136,102,0 70,102,112,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00440.jpg 6,68,195,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00204_270d.jpg 75,44,113,170,0 10,90,43,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00291_270d.jpg 115,112,141,197,0 97,11,126,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00281.jpg 81,106,181,131,0 51,131,78,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00238_90d.jpg 69,44,103,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00276_90d.jpg 33,135,192,181,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00411_270d.jpg 76,98,143,143,0 2,40,71,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00542.jpg 6,77,186,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00357.jpg 69,5,139,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00415_90d.jpg 7,107,92,147,0 100,143,181,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00408_270d.jpg 127,99,184,198,0 73,3,127,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00392_270d.jpg 10,120,188,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00206_180d.jpg 89,76,193,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00490_180d.jpg 16,100,93,163,0 103,57,180,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00212_90d.jpg 50,41,84,149,0 121,73,158,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00337_270d.jpg 48,88,73,173,0 5,31,58,76,0 80,31,127,78,0 16,5,74,29,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00275.jpg 14,92,112,125,0 114,117,194,143,0 43,123,107,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00301_270d.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00281_270d.jpg 68,81,94,182,0 16,51,70,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00513_270d.jpg 123,58,156,125,0 75,140,113,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00228_90d.jpg 56,61,85,186,0 75,29,104,52,0 117,35,194,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00539_180d.jpg 73,26,144,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00774_90d.jpg 26,125,47,198,0 129,55,162,80,0 168,0,196,53,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00555.jpg 49,78,197,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00464_270d.jpg 33,15,99,68,0 149,11,174,148,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00411_90d.jpg 56,58,124,103,0 130,107,199,161,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00549_270d.jpg 3,75,123,140,0 28,159,75,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00312_270d.jpg 86,4,136,73,0 15,68,63,144,0 6,142,35,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00310_180d.jpg 101,61,168,118,0 14,58,92,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00513_180d.jpg 76,123,143,155,0 0,75,61,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00325_180d.jpg 95,91,126,193,0 85,0,120,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00525.jpg 100,38,192,100,0 11,84,94,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00221.jpg 71,46,178,68,0 123,79,197,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00370.jpg 25,76,138,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00562.jpg 83,19,140,113,0 25,121,95,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00413_90d.jpg 103,95,167,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00521_90d.jpg 34,8,84,100,0 84,107,140,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00210_270d.jpg 85,59,117,182,0 55,121,80,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00239_270d.jpg 122,87,147,170,0 92,132,119,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00455_180d.jpg 107,40,187,97,0 5,93,90,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00487_180d.jpg 1,82,104,153,0 104,40,194,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00208_270d.jpg 83,73,110,175,0 52,116,77,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00383.jpg 70,19,116,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00518_90d.jpg 72,8,132,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00219_90d.jpg 157,2,190,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00336_270d.jpg 119,25,157,80,0 12,87,109,121,0 141,64,175,142,0 96,151,143,183,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00533.jpg 39,79,188,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00550.jpg 77,75,126,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00274_90d.jpg 108,113,148,194,0 96,15,111,98,0 110,3,130,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00519_90d.jpg 103,3,137,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00355_180d.jpg 73,5,118,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00237_90d.jpg 104,74,134,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00785_180d.jpg 153,49,197,72,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00516_270d.jpg 73,2,119,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00314_90d.jpg 92,60,137,161,0 7,60,30,154,0 155,82,182,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00419.jpg 115,20,177,120,0 38,131,111,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00446.jpg 49,6,113,106,0 92,110,169,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00290_90d.jpg 35,146,104,180,0 59,52,80,133,0 85,142,127,167,0 75,5,113,40,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00215.jpg 8,94,44,133,0 48,136,80,173,0 84,159,188,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00499.jpg 83,7,155,74,0 8,83,77,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00530_270d.jpg 105,98,130,196,0 77,30,117,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00518_180d.jpg 8,68,194,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00782_270d.jpg 44,73,71,190,0 12,113,35,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00794_90d.jpg 63,156,128,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00249_270d.jpg 84,10,112,40,0 71,52,103,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00394.jpg 7,72,50,99,0 89,85,185,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00463.jpg 141,93,190,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00473.jpg 110,11,169,81,0 11,92,91,153,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00431_270d.jpg 127,34,193,107,0 62,117,134,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00309.jpg 38,81,124,106,0 133,113,193,150,0 9,33,108,69,0 120,75,174,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00292.jpg 6,69,134,98,0 141,72,194,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00352_90d.jpg 33,1,89,94,0 77,105,140,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00481.jpg 146,62,190,132,0 69,137,142,193,0 13,49,90,84,0 146,35,200,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00433.jpg 107,23,174,110,0 66,118,117,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00777_270d.jpg 89,6,118,95,0 79,108,106,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00370_270d.jpg 99,25,124,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00558.jpg 87,15,150,101,0 24,116,84,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00485_90d.jpg 130,5,161,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00793_180d.jpg 112,114,158,196,0 136,8,175,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00780_270d.jpg 13,18,59,56,0 22,61,49,134,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00371.jpg 83,53,119,149,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00255_270d.jpg 90,108,124,193,0 40,10,74,55,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00490.jpg 108,37,184,99,0 21,92,97,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00488.jpg 103,28,194,89,0 4,61,97,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00291_90d.jpg 58,4,85,89,0 73,101,102,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00422.jpg 15,14,74,73,0 139,135,190,192,0 80,78,117,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00471_180d.jpg 99,160,124,193,0 98,23,135,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00444.jpg 4,20,97,107,0 44,112,140,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00371_270d.jpg 50,83,147,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00425_180d.jpg 11,118,68,192,0 102,15,156,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00346.jpg 56,20,122,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00531_270d.jpg 53,106,106,196,0 25,6,68,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00792_270d.jpg 103,93,131,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00426_90d.jpg 102,146,153,194,0 152,95,196,136,0 4,62,55,123,0 60,9,114,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00415_180d.jpg 107,107,147,192,0 143,19,199,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00509_180d.jpg 4,74,191,114,0 27,2,160,40,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00294_180d.jpg 16,65,65,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00308_180d.jpg 104,107,179,125,0 47,71,95,107,0 107,134,187,162,0 42,112,95,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00380_180d.jpg 104,73,188,110,0 9,69,94,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00237_270d.jpg 67,15,95,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00430_90d.jpg 68,92,110,194,0 120,0,169,79,0 152,128,196,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00468_90d.jpg 74,127,120,187,0 111,13,171,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00243_270d.jpg 112,96,150,197,0 68,127,86,199,0 42,16,72,78,0 12,83,38,114,0 26,25,46,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00330_270d.jpg 52,50,122,104,0 29,108,54,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00344.jpg 45,19,120,103,0 94,110,142,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00523_270d.jpg 107,22,137,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00514_90d.jpg 58,50,101,137,0 107,142,151,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00556_180d.jpg 102,0,176,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00559_270d.jpg 101,95,189,162,0 9,20,90,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00493.jpg 47,1,106,97,0 63,99,121,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00783_90d.jpg 130,24,158,58,0 17,111,35,195,0 43,119,119,158,0 126,125,192,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00331_180d.jpg 122,108,200,135,0 50,54,99,126,0 8,36,43,54,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00533_90d.jpg 78,12,103,162,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00799.jpg 135,70,160,186,0 76,8,98,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00470_180d.jpg 32,122,122,196,0 119,49,199,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00211.jpg 17,87,119,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00208.jpg 73,90,174,116,0 116,123,195,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00238_180d.jpg 44,96,166,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00237.jpg 15,105,126,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00446_90d.jpg 5,87,106,152,0 110,31,197,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00317.jpg 13,104,129,125,0 138,87,187,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00351_90d.jpg 88,8,148,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00221_90d.jpg 45,22,69,130,0 79,3,106,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00328.jpg 81,1,119,77,0 110,83,136,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00445_180d.jpg 73,96,145,196,0 37,3,112,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00285_180d.jpg 52,60,103,148,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00389_180d.jpg 4,32,198,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00499_270d.jpg 125,83,193,156,0 63,8,117,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00467_270d.jpg 111,73,190,125,0 18,23,99,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00404_180d.jpg 94,88,193,121,0 1,108,84,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00525_90d.jpg 37,8,101,101,0 83,106,141,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00266_270d.jpg 56,32,95,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00435_90d.jpg 36,5,63,53,0 31,91,83,179,0 77,6,141,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00551_180d.jpg 32,74,130,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00523_90d.jpg 63,0,92,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00776_270d.jpg 56,100,84,162,0 34,141,65,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00304_180d.jpg 5,70,103,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00347.jpg 21,73,116,118,0 118,122,200,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00556_270d.jpg 1,25,199,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00437.jpg 14,27,177,88,0 157,97,200,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00220_270d.jpg 54,125,80,197,0 23,61,47,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00364.jpg 112,10,152,137,0 136,160,171,199,0 153,1,196,51,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00297.jpg 1,96,121,122,0 134,81,199,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00376_180d.jpg 122,46,196,96,0 48,100,122,129,0 21,167,110,194,0 121,125,195,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00439_180d.jpg 123,81,193,185,0 90,0,175,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00329.jpg 121,44,171,94,0 55,96,137,147,0 32,144,56,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00480.jpg 8,133,93,188,0 91,55,161,113,0 1,13,87,53,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00246_270d.jpg 94,13,112,49,0 100,89,123,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00777_90d.jpg 81,106,110,195,0 94,6,121,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00304_270d.jpg 70,98,140,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00391_180d.jpg 160,144,197,180,0 17,79,123,153,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00790_90d.jpg 72,86,110,154,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00339_270d.jpg 5,73,179,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00414_270d.jpg 67,108,94,201,0 53,12,92,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00331.jpg 1,65,78,91,0 102,74,150,145,0 158,146,192,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00265_270d.jpg 73,1,102,104,0 86,111,126,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00515.jpg 117,135,200,151,0 7,137,100,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00436_180d.jpg 138,58,194,131,0 69,3,122,58,0 26,87,80,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00314_270d.jpg 63,40,107,141,0 169,47,192,141,0 18,69,45,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00537.jpg 15,78,190,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00347_180d.jpg 84,81,180,127,0 0,24,83,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00520_90d.jpg 95,4,142,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00494_180d.jpg 142,5,199,197,0 3,10,46,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00438_180d.jpg 81,30,117,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00556_90d.jpg 1,102,200,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00485.jpg 5,130,195,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00302.jpg 8,124,60,196,0 45,100,159,129,0 155,141,195,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00241_90d.jpg 69,8,93,185,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00425_270d.jpg 118,133,192,190,0 16,45,91,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00501_180d.jpg 71,85,179,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00778_270d.jpg 85,122,109,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00378.jpg 21,22,74,50,0 115,22,190,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00212_270d.jpg 115,52,149,160,0 42,35,78,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00250_270d.jpg 74,29,96,55,0 77,91,103,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00300_270d.jpg 74,4,96,86,0 63,99,87,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00394_270d.jpg 101,7,129,51,0 68,89,115,186,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00528.jpg 95,9,193,101,0 32,105,101,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00318_270d.jpg 58,112,184,143,0 51,128,117,152,0 5,53,51,68,0 61,75,157,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00492_90d.jpg 92,41,195,82,0 72,65,92,139,0 163,161,201,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00208_180d.jpg 26,83,128,110,0 5,52,85,77,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00213_90d.jpg 122,11,151,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00361.jpg 11,34,75,85,0 61,94,104,179,0 5,114,35,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00522.jpg 103,33,178,110,0 36,114,98,182,0 83,102,124,145,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00268_270d.jpg 5,101,143,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00786_90d.jpg 153,25,173,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00352_270d.jpg 111,107,166,200,0 61,7,122,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00258.jpg 7,155,194,177,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00460_270d.jpg 129,14,190,49,0 66,55,116,162,0 7,157,60,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00358.jpg 78,16,121,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00439_270d.jpg 81,8,186,78,0 1,26,78,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00285_270d.jpg 60,98,148,149,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00329_180d.jpg 29,105,80,156,0 63,52,146,104,0 144,11,169,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00542_270d.jpg 73,6,123,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00303_270d.jpg 131,8,188,90,0 37,110,138,140,0 2,79,34,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00201.jpg 110,91,194,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00521_180d.jpg 8,116,100,165,0 107,60,194,115,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00534.jpg 79,87,166,129,0 96,136,189,161,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00310_90d.jpg 81,101,139,168,0 105,14,142,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00555_90d.jpg 78,3,124,152,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00464_180d.jpg 133,32,186,99,0 53,148,190,173,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00512_180d.jpg 117,34,171,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00418_180d.jpg 127,0,193,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00210_180d.jpg 19,85,142,117,0 9,55,80,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00397_270d.jpg 81,51,194,89,0 0,73,73,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00424_90d.jpg 69,104,183,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00354_90d.jpg 6,66,153,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00503_270d.jpg 142,54,169,150,0 14,85,39,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00484_270d.jpg 131,59,165,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00450_180d.jpg 104,16,199,83,0 4,86,98,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00256.jpg 7,70,86,95,0 93,85,199,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00517_270d.jpg 91,7,145,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00303.jpg 8,13,89,69,0 110,62,139,162,0 79,166,120,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00366_90d.jpg 0,94,180,148,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00218_180d.jpg 48,123,166,147,0 36,88,125,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00553.jpg 38,15,179,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00338_90d.jpg 4,67,100,122,0 113,96,196,134,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00455_270d.jpg 41,14,97,94,0 93,111,122,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00408_180d.jpg 3,127,102,184,0 113,73,198,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00398.jpg 81,2,114,100,0 100,111,144,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00378_90d.jpg 21,126,50,180,0 21,10,56,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00441.jpg 15,75,195,164,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00452_270d.jpg 102,107,155,195,0 50,5,109,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00496_180d.jpg 120,103,180,198,0 78,2,143,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00280_270d.jpg 74,50,118,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00383_270d.jpg 9,70,181,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00320.jpg 77,23,115,162,0 123,149,180,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00406_90d.jpg 69,3,119,91,0 117,95,167,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00420_90d.jpg 94,8,127,105,0 115,119,192,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00363_180d.jpg 77,49,110,168,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00489_90d.jpg 41,4,96,101,0 106,105,160,180,0 67,108,121,186,0 11,55,84,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00791_270d.jpg 93,42,170,79,0 26,20,81,51,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00425.jpg 133,8,189,81,0 45,109,98,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00443_180d.jpg 6,78,189,144,0 17,16,98,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00323_180d.jpg 33,158,56,196,0 60,142,117,170,0 106,6,140,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00387_90d.jpg 109,3,167,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00325_90d.jpg 6,95,108,126,0 115,85,200,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00540_270d.jpg 5,144,143,183,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00421_270d.jpg 83,94,173,128,0 7,68,76,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00219_180d.jpg 2,10,129,43,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00454_270d.jpg 111,102,188,148,0 35,62,107,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00351.jpg 11,89,192,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00390.jpg 58,10,128,108,0 87,115,148,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00323_270d.jpg 158,145,196,168,0 142,84,170,141,0 6,61,136,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00503.jpg 54,31,149,57,0 85,161,198,185,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00251_270d.jpg 104,106,183,181,0 12,36,92,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00447_90d.jpg 4,60,108,100,0 111,73,193,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00269_270d.jpg 12,115,120,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00389_270d.jpg 32,3,104,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00545_90d.jpg 26,47,112,99,0 136,87,198,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00309_180d.jpg 76,93,163,119,0 7,49,68,87,0 92,130,192,167,0 26,103,81,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00529_270d.jpg 73,94,107,190,0 38,2,75,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00487_270d.jpg 82,97,153,200,0 41,7,106,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00258_180d.jpg 6,22,194,45,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00515_180d.jpg 0,48,84,65,0 100,25,194,63,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00427_270d.jpg 65,20,110,76,0 4,87,61,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00307_270d.jpg 116,74,195,95,0 52,35,93,69,0 118,109,193,142,0 54,93,108,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00471_270d.jpg 161,77,193,102,0 23,66,111,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00298_270d.jpg 125,10,151,136,0 72,25,100,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00409.jpg 5,80,57,135,0 62,74,139,137,0 143,31,199,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00503_90d.jpg 30,51,57,147,0 161,2,186,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00790_270d.jpg 89,47,127,115,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00416_180d.jpg 13,69,76,152,0 69,0,127,67,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00789_90d.jpg 25,39,78,60,0 120,21,183,63,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00459_180d.jpg 95,42,193,95,0 12,29,87,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00455.jpg 14,103,93,159,0 111,78,195,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00486.jpg 3,75,83,113,0 88,23,168,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00782_180d.jpg 11,44,128,71,0 8,12,88,35,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00484_90d.jpg 34,4,69,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00334_180d.jpg 49,82,170,112,0 3,42,40,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00228_270d.jpg 114,15,144,140,0 96,149,125,172,0 6,121,83,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00222.jpg 18,156,104,187,0 118,176,170,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00264_270d.jpg 74,1,109,107,0 86,116,121,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00385_90d.jpg 9,158,28,193,0 27,43,78,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00209_180d.jpg 86,30,185,57,0 33,5,78,30,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00289_180d.jpg 42,113,95,132,0 29,59,50,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00522_270d.jpg 89,103,167,179,0 18,36,86,99,0 54,83,98,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00431_90d.jpg 7,94,72,167,0 66,12,138,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00779_180d.jpg 102,60,194,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00295_90d.jpg 72,112,104,199,0 62,5,92,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00330_90d.jpg 77,97,149,151,0 146,38,171,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00321_180d.jpg 52,109,116,135,0 113,74,200,105,0 34,47,104,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00417_270d.jpg 110,94,188,156,0 19,51,94,100,0 32,110,93,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00286_180d.jpg 27,90,65,137,0 63,30,104,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00243_180d.jpg 4,112,105,150,0 2,68,74,86,0 123,41,185,71,0 87,12,118,38,0 123,25,176,45,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00281_180d.jpg 19,68,120,94,0 122,15,150,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00799_270d.jpg 13,135,130,161,0 33,76,192,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00334_90d.jpg 87,49,117,170,0 100,3,158,40,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00223_90d.jpg 99,26,122,123,0 132,7,160,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00241.jpg 16,70,192,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00338_270d.jpg 99,79,195,134,0 4,67,86,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00257_270d.jpg 110,1,148,105,0 96,108,129,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00440_90d.jpg 67,5,161,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00427_180d.jpg 125,64,181,110,0 59,4,114,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00381.jpg 1,90,111,121,0 163,134,197,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00317_90d.jpg 103,71,125,188,0 87,13,108,63,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00395_270d.jpg 94,33,170,114,0 9,117,76,177,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00280_180d.jpg 70,74,151,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00312_90d.jpg 64,128,114,197,0 137,57,185,133,0 165,4,194,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00787_180d.jpg 8,40,116,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00517_90d.jpg 54,1,108,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00202_180d.jpg 82,95,200,126,0 5,83,59,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00298_180d.jpg 65,125,191,150,0 27,72,176,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00210.jpg 59,83,181,114,0 121,120,191,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00435.jpg 148,37,195,63,0 22,32,109,83,0 118,77,194,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00793_90d.jpg 3,112,85,158,0 96,136,192,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00287_270d.jpg 87,21,119,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00306_180d.jpg 97,102,183,143,0 88,73,163,93,0 30,32,85,69,0 19,78,88,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00317_180d.jpg 71,74,188,96,0 13,92,63,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00326_90d.jpg 13,101,101,135,0 115,98,195,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00783_180d.jpg 24,42,58,70,0 111,164,195,182,0 119,80,158,156,0 125,8,151,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00232_270d.jpg 68,20,131,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00498_90d.jpg 78,5,141,80,0 146,73,192,153,0 23,55,68,125,0 73,136,117,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00212_180d.jpg 41,115,149,149,0 73,42,166,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00222_90d.jpg 156,96,188,183,0 176,30,199,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00436.jpg 7,69,62,141,0 79,142,131,196,0 121,40,174,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00499_90d.jpg 6,45,75,118,0 82,123,138,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00279_270d.jpg 86,114,112,170,0 68,34,131,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00285.jpg 98,52,148,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00433_180d.jpg 26,89,94,177,0 83,0,135,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00400_270d.jpg 84,68,188,109,0 8,93,76,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00381_270d.jpg 78,1,110,112,0 36,163,66,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00378_180d.jpg 126,149,180,178,0 10,143,86,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00334_270d.jpg 82,31,112,152,0 42,161,100,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00523_180d.jpg 0,107,179,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00562_270d.jpg 86,83,181,141,0 4,25,79,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00289_90d.jpg 68,42,87,95,0 95,29,141,50,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00219_270d.jpg 10,72,43,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00351_180d.jpg 8,52,190,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00246.jpg 13,89,48,106,0 89,77,149,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00203_180d.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00343_90d.jpg 47,3,132,118,0 4,81,68,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00783.jpg 143,130,176,157,0 6,18,89,35,0 43,44,81,119,0 50,127,75,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00270_180d.jpg 116,131,189,197,0 74,28,111,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00325.jpg 75,7,105,108,0 81,116,115,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00538_90d.jpg 26,82,184,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00358_180d.jpg 79,6,123,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00560_270d.jpg 115,72,184,129,0 10,60,104,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00792_180d.jpg 6,103,108,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00274_270d.jpg 53,7,91,88,0 89,103,104,186,0 70,109,90,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00317.jpg 13,104,129,125,0 138,87,187,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00234_180d.jpg 135,84,195,107,0 69,50,122,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00785.jpg 4,128,47,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00338.jpg 79,5,133,100,0 67,114,104,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00527_270d.jpg 111,75,193,145,0 41,8,102,72,0 89,112,184,176,0 10,21,78,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00305_180d.jpg 99,89,189,129,0 94,64,159,84,0 45,35,90,63,0 13,68,79,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00295.jpg 2,73,88,104,0 107,63,195,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00278_180d.jpg 21,5,47,99,0 56,117,89,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00225_270d.jpg 77,88,104,188,0 48,125,76,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00386.jpg 134,11,190,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00524_270d.jpg 30,102,81,196,0 21,2,49,97,0 132,106,191,159,0 69,40,127,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00536_270d.jpg 107,115,170,197,0 44,29,103,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00545.jpg 102,27,153,111,0 62,136,113,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00539_270d.jpg 26,57,161,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00355.jpg 83,7,127,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00434_270d.jpg 117,67,199,119,0 55,10,115,70,0 0,111,91,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00250.jpg 29,104,54,125,0 91,97,159,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00344_180d.jpg 80,96,156,181,0 58,2,107,90,0
