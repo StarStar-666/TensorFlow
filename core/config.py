@@ -31,11 +31,11 @@ __C.YOLO.GT_PER_GRID            = 3
 # Train options
 __C.TRAIN                       = edict()
 
-__C.TRAIN.ANNOT_PATH            = "/content/drive/MyDrive/Voc/VOC2012/data/dataset/voc_train.txt"
-__C.TRAIN.BATCH_SIZE            = 16   # 尽量大一些, 不然训练效果较差
+__C.TRAIN.ANNOT_PATH            = "/content/drive/MyDrive/Voc/VOC2012/data/dataset/voc_train1.txt"
+__C.TRAIN.BATCH_SIZE            = 32   # 尽量大一些, 不然训练效果较差
 __C.TRAIN.INPUT_SIZE            = [416]   # 多尺度, 根据自己的显存跟图片分辨率去设置, 32的倍数即可
 __C.TRAIN.DATA_AUG              = True
-__C.TRAIN.LEARN_RATE_INIT       = 1e-3
+__C.TRAIN.LEARN_RATE_INIT       = 0.000987
 __C.TRAIN.LEARN_RATE_END        = 1e-7
 __C.TRAIN.WARMUP_EPOCHS         = 2
 __C.TRAIN.FISRT_STAGE_EPOCHS    = 0
@@ -61,7 +61,5 @@ __C.TEST.WEIGHT_FILE            = "/content/drive/MyDrive/Voc/checkpoint/yolov3_
 __C.TEST.SHOW_LABEL             = True
 __C.TEST.SCORE_THRESHOLD        = 0.3
 __C.TEST.IOU_THRESHOLD          = 0.45
-
-
 
 
