@@ -84,8 +84,8 @@ class YoloTrain(object):
         with tf.name_scope('loader_and_saver'):
             variables_to_restore = [v for v in self.net_var if
                                     v.name.split('/')[0] not in ['conv_sbbox', 'conv_mbbox', 'conv_lbbox']]
-            self.loader = tf.train.Saver(variables_to_restore)
-            self.saver = tf.train.Saver(tf.global_variables(), max_to_keep=4)
+            self.loader = tf.train.Saver()
+            self.saver = tf.train.Saver(tf.global_variables(), max_to_keep=2)
             self.best = tf.train.Saver(tf.global_variables(), max_to_keep=1)
 
         self.l2_loss_1 = tf.losses.get_regularization_loss()
@@ -148,7 +148,7 @@ class YoloTrain(object):
             self.first_stage_epochs = 0
 
         # 阶段学习率
-        for epoch in range(0, 1 + self.first_stage_epochs + self.second_stage_epochs):
+        for epoch in range(10, 1 + self.first_stage_epochs + self.second_stage_epochs):
             if epoch <= self.first_stage_epochs:
                 train_op = self.train_op_with_frozen_variables
             else:
@@ -194,7 +194,7 @@ class YoloTrain(object):
             log_time = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))
             print("=> Epoch: %2d Time: %s Train loss: %.2f Test loss: %.2f lr：%2f Saving %s ..."
                   % (epoch, log_time, train_epoch_loss, test_epoch_loss, lr, ckpt_file))
-            if epoch % 5 == 0:
+            if epoch % 3 == 0:
                 self.saver.save(self.sess, ckpt_file, global_step=epoch)
             if test_epoch_loss < test_loss:
                 test_loss = test_epoch_loss
